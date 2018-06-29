@@ -1,2 +1,0 @@
-# TreinamentoGIT
-Treinamento MiniCursoGIT
